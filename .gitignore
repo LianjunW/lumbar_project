@@ -1,0 +1,6 @@
+*.dcm
+*.jpg
+code/pos_estimation/log/*
+*.log
+code/pos_estimation/output/*
+*.pyc
